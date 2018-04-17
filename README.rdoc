@@ -1,1 +1,1 @@
-This the repository for teh first alpha-blog app that I am building as part of a Udemy course.
+This the repository for the first alpha-blog app that I am building as part of a Udemy course.
